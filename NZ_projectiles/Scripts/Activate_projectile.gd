@@ -1,4 +1,4 @@
-extends Button
+extends Button vers tout les color
 
 @export var projectile : Projectile
 
